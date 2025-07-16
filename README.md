@@ -7,11 +7,7 @@
 A modular and interactive dashboard built with Laravel and Livewire that aggregates data from multiple external APIs like Notion, YouTube, Udemy, GitHub, LinkedIn, and Laravel/Livewire documentation.
 
 ## 🚀 Features
-
-- 🧠 **Notion Integration** – Displays your recent Notion pages.
 - 🎥 **YouTube** – Shows channel stats and recent content using YouTube Data API.
-- 📚 **Udemy** – Fetches courses by category using Udemy RapidAPI.
-- 👥 **LinkedIn** – (Coming soon) Support for user analytics and content tracking.
 - 🐱 **GitHub** – Displays public GitHub profile stats.
 - 📰 **Tech News** – Scrapes latest Laravel and Livewire docs updates.
 - ⚙️ **Clean Architecture** – Services, Repositories, and Livewire components.
